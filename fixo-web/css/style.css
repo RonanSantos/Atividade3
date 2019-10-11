@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+h2{
+    text-align: center;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.cima{
+    width: 1365px;
+    height: 60px;
+    background-color: aqua;
+}
+
+#imgD{
+    width: 1000px;
+    height: 500px;
+}
+
+#img1{
+    padding-top: 20px;  
+    width: 150px;
+    height: 80px;
+}
+
+.dire,.es1,.es2{
+    display: inline-block;
+    float: left;
+}
+
+.dire{
+    width: 1000px;
+    height: 500px;
+    background-color: blanchedalmond;
+}
+.es1{
+    background-color: cornflowerblue;
+}
+.es2{
+    background-color: cadetblue;
+}
+.es1,.es2{
+    width: 174px;
+    height: 500px;
+}
+
+
